@@ -14,6 +14,11 @@ sudo npm install
 npm start
 ```
 
+To build a production version:
+```javascript
+npm run build
+```
+
 <div align="center">
     <img src="https://github.com/jonathanmartinez/bloombees-code-test/blob/master/demo.png?raw=true" alt="Demo">
 </div>
