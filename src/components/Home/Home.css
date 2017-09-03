@@ -1,0 +1,11 @@
+.card-title{
+  font-size: 1rem;
+}
+
+.card{
+    border: 0px !important;
+}
+
+.card a{
+  color: black !important;
+}
